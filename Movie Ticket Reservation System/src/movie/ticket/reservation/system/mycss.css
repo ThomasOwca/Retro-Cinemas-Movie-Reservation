@@ -1,0 +1,16 @@
+.seat {
+	-fx-background-color: white;
+	-fx-background-radius: 5;
+}
+
+.seat:hover {
+	-fx-background-color: lightblue;
+	-fx-background-radius: 5;
+}
+
+.movie {
+	-fx-background-color: white;
+	-fx-background-radius: 8;
+	-fx-border-color: black;
+	-fx-border-radius: 4;
+}
