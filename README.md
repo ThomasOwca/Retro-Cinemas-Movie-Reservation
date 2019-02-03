@@ -27,7 +27,7 @@ from earlier use.
 
 Thanks for looking,
 
-- Thomas O.
+Thomas O.
 
 APPLICATION OUTPUT IMAGES
 
